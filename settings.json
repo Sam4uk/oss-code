@@ -1,0 +1,24 @@
+{
+    "files.encoding": "utf8",
+    "files.autoSave": "onFocusChange",
+    "doxdocgen.generic.authorName": "Sam4uk",
+    "doxdocgen.generic.authorEmail": "Sam4uk.site@gmail.com",
+    "doxdocgen.generic.useGitUserEmail": true,
+    "doxdocgen.generic.useGitUserName": true,
+    // "doxdocgen.c.firstLine":"\n/********************************************************************************",
+    // "doxdocgen.c.lastLine": " ******************************************************************************/",
+    "doxdocgen.c.commentPrefix": " * ",
+
+    "doxdocgen.file.copyrightTag": [
+        "@copyright Copyright © Sam4uk {year} (Sam4uk.site@gmail.com) "
+    ],
+
+    "editor.rulers": [
+        5,
+        72,
+        80
+    ],
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+}
