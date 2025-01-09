@@ -21,4 +21,5 @@
     "[cpp]": {
         "editor.defaultFormatter": "xaver.clang-format"
     },
+    "diffEditor.ignoreTrimWhitespace": false,
 }
