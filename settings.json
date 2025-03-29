@@ -1,6 +1,7 @@
 {
     "files.encoding": "utf8",
     "files.autoSave": "onFocusChange",
+    "editor.renderWhitespace": "all",
     "doxdocgen.generic.authorName": "Sam4uk",
     "doxdocgen.generic.authorEmail": "Sam4uk.site@gmail.com",
     "doxdocgen.generic.useGitUserEmail": true,
@@ -22,4 +23,8 @@
         "editor.defaultFormatter": "xaver.clang-format"
     },
     "diffEditor.ignoreTrimWhitespace": false,
+    "clangd.path": "/home/sam4uk/.config/Code - OSS/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/19.1.2/clangd_19.1.2/bin/clangd",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Scoria",
+    "EIDE.Repository.UseProxy": false,
 }
