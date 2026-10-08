@@ -34,4 +34,10 @@
     "[javascript]": {
         "editor.defaultFormatter": "xaver.clang-format"
     },
+    "files.associations": {
+        "*.info": "properties"
+    },
+    "p2p-live-share.userName": "sam4uk",
+    "diffEditor.maxComputationTime": 0,
+    "redhat.telemetry.enabled": true,
 }
